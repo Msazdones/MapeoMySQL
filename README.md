@@ -9,7 +9,7 @@ de una base de datos SQL.
 posible que tenga que ser editado si se desea adaptarlo a otros entornos.
 
 [*]Renuncia de responsabilidad: El autor no se hace responsable de las actividades ilegales que puedan ser perpetradas por 
-otras personas empleando para ello la herramienta esta herramienta.
+otras personas empleando para ello esta herramienta.
 
 **********************************************************************************************************************************
 
