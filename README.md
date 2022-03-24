@@ -26,7 +26,7 @@ to adapt it to other environments.
 
 [*]Tool Execution:
 
-        [-] python3 MapeoMySQL.py <option> <URL>
+        [-] python3 MapeoMySQL.py -<option> <URL>
 
 [*]Tool Options:
 
