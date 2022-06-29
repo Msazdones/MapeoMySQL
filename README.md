@@ -17,11 +17,11 @@ otras personas empleando para ello esta herramienta.
 
 **********************************************************************************************************************************
 
-[*]This script has been developed by Miguel Saz Dones, student of the University of Alcalá de Henares (UAH), on date 24/02/2022, 
+[*]This script has been developed by Miguel Saz Dones, student of the University of Alcalá (UAH), on date 24/02/2022, 
 with the sole purpose of serving didacticaly to the author for understanding the operation and the process of 
 creating a tool of these characteristics, in addition to better understanding the operation of a SQL database.
 
-[*]This tool is part of the final degree project named "Ciclo de vida de un ciberataque: Ataque y defensa", made by Miguel Saz Dones, in the Telecommunications Technologies Engineering Degree of the Universidad de Alcalá (UAH).
+[*]This tool is part of the final degree project named "Ciclo de vida de un ciberataque: Ataque y defensa", made by Miguel Saz Dones, in the Telecommunications Technologies Engineering Degree of the University of Alcalá (UAH).
 
 [*]Link to the project: https://ebuah.uah.es/dspace/handle/10017/52335
 
