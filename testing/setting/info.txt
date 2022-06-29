@@ -1,13 +1,1 @@
-This is the .ova of the setting used in the attack of this final degree project. It's composed by:
-
-	[*] WebServer 
-		[-] Credentials: webserver/webserver
-
-	[*] DataBase 
-		[-] Credentials: database/database
-
-	[*] CompanyComputer (lin.security)
-		[-] Credentials: bob/secret
-		[-] The lin.security project (https://in.security/2018/07/11/lin-security-practise-your-linux-privilege-escalation-foo/) has been used for the implementation of this machine.
-
-There is also a video explanation of the attack performed, attached to this folder.
+You can find the entire sample scenario used in the video explanation in the tag/release tab of this repository, along with the final version of the "MapeoMySQL" tool (v1.0).
